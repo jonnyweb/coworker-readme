@@ -1,6 +1,7 @@
 module.exports = {
   allowLocalFiles: true,
   ogImage: process.env.URL && `${process.env.URL}/og-image.jpg`,
-  themeSet: 'themes',
+  themeSet: "themes",
   url: process.env.URL,
-}
+  allowHtml: true,
+};

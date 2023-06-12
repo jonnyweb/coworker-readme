@@ -61,16 +61,17 @@ This is meant to be digested by people with whom I work closely, but in particul
 
 ## My job is to
 
-- attract, hire, and retain world-class talent
+- enable amazing products to be delivered autonomously, by
+  - relaying and / or setting context
+  - removing as many obstacles as I can
 - create the context in which these talented people can do the best work which requires
   - a high-degree of [psychological safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- attract, hire, and retain world-class talent
+
   <!-- - people being engaged with the work, due to them
     - having a high degree of **autonomy**
     - having the opportunity for them to develop **mastery**
     - understanding the **purpose** of the work they do -->
-- enable amazing products to be delivered autonomously, by
-  - relaying and / or setting context
-  - removing as many obstacles as I can
 
 **PLEASE let me know** if this doesn't line-up with your day-to-day experience of working with me
 
@@ -80,16 +81,16 @@ This is meant to be digested by people with whom I work closely, but in particul
 
 - I am biased toward openness and transparency
 - However, there may be times when I am _not_ at liberty to be open / transparent
-- Even when I am constrained from full transparency, I am committed to _not_ lying to you.
+- Even when I am constrained from full transparency, I am committed to _not_ lying to you
 
 ---
 
 ## Communcation
 
-- I prefer over-communication, and will default to this on the whole
-- When communicating, it is always useful to let me know if something is either
-  - something you're making me aware of, but requires no action on my part
-  - something you need my assistance / help with, and what kind of urgency it is
+- I prefer over-communication
+- When communicating with me, it is always useful to let me know if something is either
+  - **a noop**: something you're making me aware of, but requires no action on my part
+  - **a request:** something you need my assistance with (always useful to specify the level of urgency too)
 
 ---
 
@@ -127,17 +128,17 @@ If we work closely together, we'll have a regularly-occuring 1:1
 
 ## Need my time?
 
-- Find me on Slack and ask for a quick chat; maybe we can do it _right now_. If not, let's schedule something.
-- Put something on my calendar.  You don't need my permission.
-- Don't wait for a 1:1, particularly if it's something tactical or urgent.
+- Find me on Slack and ask for a quick chat; maybe we can do it _right now_. If not, let's schedule somethingl
+- Put something on my calendar.  You don't need my permission
+- Don't wait for a 1:1, particularly if it's something tactical or urgent
 
 ---
 
 ## Gotchas
 
 - I bias towards action based on evidence
-  - I try to steer away from too much debate around [type 2 decisions](https://kb.founderculture.net/public/posts/rmd3fjeg)
+  - I try to steer away from too much debate around <a href="https://kb.founderculture.net/public/posts/rmd3fjeg" target="_blank">type 2 decisions</a>
 - Sometimes my mouth moves faster than my brain. As such:
   - Please assume the best of me, but ...
-  - Don't let me off the hook for irresponsible (or worse) communication.
+  - Don't let me off the hook for irresponsible (or worse) communication
   - If something I say is upsetting, please let me know and I'll do my best to clean it up, as well as learn
