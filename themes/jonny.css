@@ -1,0 +1,38 @@
+/* @theme jonny */
+
+/* @import "uncover"; */
+@import "default";
+
+section {
+  background: #eee;
+  color: #000;
+  font-size: 30px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #ff385c;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+h3 {
+  size: 1em;
+}
+
+section strong em,
+section strong {
+  color: #ff385c;
+}
+
+a,
+a:hover {
+  color: #ff385c;
+  text-decoration: underline;
+}
